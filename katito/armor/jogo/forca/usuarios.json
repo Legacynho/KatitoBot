@@ -1,0 +1,191 @@
+[
+  {
+    "id": "555499857042@s.whatsapp.net",
+    "dados": {
+      "acertos": 1,
+      "erros": 0,
+      "corretor": 0,
+      "jogos": 1,
+      "partidas": []
+    }
+  },
+  {
+    "id": "558596536954@s.whatsapp.net",
+    "dados": {
+      "acertos": 12,
+      "erros": 1,
+      "corretor": 0,
+      "jogos": 32,
+      "partidas": [
+        {
+          "id": "07082024212922",
+          "letras_acertadas": 3,
+          "letras_erradas": 1
+        },
+        {
+          "id": "07082024213143",
+          "letras_acertadas": 1,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024213313",
+          "letras_acertadas": 2,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024213506",
+          "letras_acertadas": 1,
+          "letras_erradas": 1
+        },
+        {
+          "id": "07082024214103",
+          "letras_acertadas": 1,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024214128",
+          "letras_acertadas": 4,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024215030",
+          "letras_acertadas": 2,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024215347",
+          "letras_acertadas": 3,
+          "letras_erradas": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": "557791569332@s.whatsapp.net",
+    "dados": {
+      "acertos": 2,
+      "erros": 1,
+      "corretor": 0,
+      "jogos": 59,
+      "partidas": [
+        {
+          "id": "07082024212922",
+          "letras_acertadas": 2,
+          "letras_erradas": 1
+        },
+        {
+          "id": "07082024213143",
+          "letras_acertadas": 2,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024213313",
+          "letras_acertadas": 4,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024213506",
+          "letras_acertadas": 2,
+          "letras_erradas": 1
+        },
+        {
+          "id": "07082024213631",
+          "letras_acertadas": 3,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024213915",
+          "letras_acertadas": 3,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024214103",
+          "letras_acertadas": 0,
+          "letras_erradas": 1
+        },
+        {
+          "id": "07082024214128",
+          "letras_acertadas": 4,
+          "letras_erradas": 1
+        },
+        {
+          "id": "07082024214417",
+          "letras_acertadas": 3,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024214511",
+          "letras_acertadas": 3,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024214610",
+          "letras_acertadas": 1,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024214639",
+          "letras_acertadas": 1,
+          "letras_erradas": 1
+        },
+        {
+          "id": "07082024214815",
+          "letras_acertadas": 5,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024215030",
+          "letras_acertadas": 11,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024215347",
+          "letras_acertadas": 5,
+          "letras_erradas": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": "554488139488@s.whatsapp.net",
+    "dados": {
+      "acertos": 1,
+      "erros": 1,
+      "corretor": 0,
+      "jogos": 7,
+      "partidas": [
+        {
+          "id": "07082024213915",
+          "letras_acertadas": 2,
+          "letras_erradas": 0
+        },
+        {
+          "id": "07082024214128",
+          "letras_acertadas": 1,
+          "letras_erradas": 1
+        },
+        {
+          "id": "07082024214417",
+          "letras_acertadas": 1,
+          "letras_erradas": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": "555198082210@s.whatsapp.net",
+    "dados": {
+      "acertos": 1,
+      "erros": 0,
+      "corretor": 0,
+      "jogos": 2,
+      "partidas": [
+        {
+          "id": "07082024215003",
+          "letras_acertadas": 0,
+          "letras_erradas": 1
+        }
+      ]
+    }
+  }
+]
